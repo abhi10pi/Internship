@@ -9,6 +9,10 @@ function App() {
   return (
     <>
      <h1>Hello</h1>
+     <div>
+      <div>This is my Intership Project</div>
+      <div>Its is a simple React App</div>
+     </div>
     </>
   )
 }
